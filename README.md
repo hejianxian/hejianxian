@@ -13,7 +13,5 @@
   </samp>
   <br>
   <br>
-  <img src="https://github.com/hejianxian/hejianxian/blob/master/ya.png" width=88 />
-  <br>
   <br>
 </p>
