@@ -1,7 +1,6 @@
 <p align="center">
   <br>
   <br>
-  <br>
     <samp>Hello there. I'm Hejx 👨‍💻.<br> I'm a FE Developer from China 🇨🇳.<br>
     <br>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -14,6 +13,7 @@
   </samp>
   <br>
   <br>
+  <img src="https://github.com/hejianxian/hejianxian/blob/master/ya.png" width=88 />
   <br>
   <br>
 </p>
