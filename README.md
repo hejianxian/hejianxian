@@ -13,6 +13,6 @@
   </samp>
   <br>
   <br>
-  #中国加油💪#
   <br>
+  <span style="color: red">#中国加油#</span>
 </p>
