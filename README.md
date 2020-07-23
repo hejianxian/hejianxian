@@ -14,9 +14,5 @@
   </samp>
   <br>
   <br>
-  <hr>
-  <a href="https://github.com/hejianxian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hejianxian" />
-  </a>
   <br>
 </p>
