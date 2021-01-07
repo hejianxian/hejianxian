@@ -4,8 +4,6 @@
   <br>
     <samp>Hello, I'm Hejx 👨‍💻<br> A web developer based in China, working in <a href="https://workplus.io/" target="_blank" title="WorkPlus">WorkPlus</a> 🐳 <br>
     <br>
-      <i style="margin-bottom: 10px;">My skills:</i>
-      <br>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
