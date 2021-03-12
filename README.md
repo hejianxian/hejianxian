@@ -7,7 +7,7 @@
   <br>
   <samp>做什么？ Hybrid H5、桌面 IM 应用、商城、中台、小程序</samp>
   <br>
-  <samp>用什么？ Vue、React、Electron、NodeJS、Webpack</samp>
+  <samp>用什么？ Vue、React、TypeScript、Electron、NodeJS</samp>
   <br>
   <samp>有想法？ 发邮件到 hejianxian@foreverht.com</samp>
   <br>
