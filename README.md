@@ -1,8 +1,8 @@
 <p align="center">
   <br>
-  <samp>招前端！前招端！前端招！📢 </samp>
+  <samp>🙋 招前端！前招端！前端招！📢 </samp>
   <br>
-  <samp>********************** </samp>
+  <samp>************************* </samp>
   <br>
   <br>
   <samp>做什么？ Hybrid H5、桌面 IM 应用、商城、中台、小程序</samp>
