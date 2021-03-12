@@ -1,5 +1,18 @@
 <p align="center">
   <br>
+  <samp>招前端！前招端！前端招！📢 </samp>
+  <br>
+  <samp>********************** </samp>
+  <br>
+  <br>
+  <samp>做什么？ Hybrid H5、桌面 IM 应用、商城、中台、小程序</samp>
+  <br>
+  <samp>用什么？ Vue、React、Electron、NodeJS、Webpack</samp>
+  <br>
+  <samp>有想法？ 发邮件到 hejianxian@foreverht.com</samp>
+  <br>
+  <br>
+  <samp>---------------------------- ❤️ ----------------------------</samp>
   <br>
   <br>
     <samp>Hi there 👋, I'm Hejx 👨‍💻<br> A web developer based in China, working in <a href="https://workplus.io/" target="_blank" title="WorkPlus">WorkPlus</a> 🐳 <br>
