@@ -9,7 +9,7 @@
   <br>
   <samp>用什么？ Vue、React、TypeScript、Electron、NodeJS</samp>
   <br>
-  <samp>有想法？ 发邮件到 hejianxian@foreverht.com</samp>
+  <samp>有想法？ 发邮件到 <a href="mailto:hejianxian@foreverht.com">hejianxian@foreverht.com</a></samp>
   <br>
   <br>
   <samp>---------------------------- ❤️ ----------------------------</samp>
