@@ -26,7 +26,7 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
      <br>
       <br>
-      #脚只是装饰而已，上面的大人物是不会懂的#
+      #Why? So what, take a risk!#
   </samp>
   <br>
   <br>
