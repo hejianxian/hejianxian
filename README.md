@@ -15,8 +15,8 @@
       #Why? So what, take a risk!#
       <br>
       <p align="center"> 
-        🤗<br>
-      <p><img width="180px" src="https://profile-counter.glitch.me/hejianxian/count.svg" /></p>
+        🤗
+      <p align="center"><img width="180px" src="https://profile-counter.glitch.me/hejianxian/count.svg" /></p>
       </p>
   </samp>
   
