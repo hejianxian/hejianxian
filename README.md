@@ -14,9 +14,9 @@
       <br>
       #Why? So what, take a risk!#
       <br>
+      <br>
       <p align="center"> 
-        Visitor Count<br>
-        <img src="https://profile-counter.glitch.me/hejianxian/count.svg" />
+        <img width=200 src="https://profile-counter.glitch.me/hejianxian/count.svg" />
       </p>
   </samp>
   
