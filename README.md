@@ -13,6 +13,11 @@
      <br>
       <br>
       #Why? So what, take a risk!#
+      <br>
+      <p align="center"> 
+        Visitor Count<br>
+        <img src="https://profile-counter.glitch.me/hejianxian/count.svg" />
+      </p>
   </samp>
   
   <br>
