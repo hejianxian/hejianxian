@@ -21,9 +21,6 @@
       <p align="center"><img width="180px" src="https://profile-counter.glitch.me/hejianxian/count.svg" /></p>
       </p>
   </samp>
-  
-  <br>
-  <br>
   <br>
   <br>
 </p>
