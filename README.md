@@ -15,12 +15,7 @@
       <a href="https://fe.workplus.io/" target="_blank" title="WorkPlusFE Team">Manual</a> |
       <a href="https://fe-blog.workplus.io/" target="_blank" title="WorkPlusFE Blog">Blog</a>
     <br>
+      <p align="center">🤗</p>
       <br>
-      #Why? So what, take a risk!#
-      <br>
-      <p align="center"> 
-        🤗
-      <p align="center"><img width="180px" src="https://profile-counter.glitch.me/hejianxian/count.svg" /></p>
-      </p>
   </samp>
 </p>
