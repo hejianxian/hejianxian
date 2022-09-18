@@ -13,9 +13,10 @@
       <br>
        <a href="https://github.com/workplusfe/" target="_blank" title="WorkPlusFE Organizations">Team</a> |
       <a href="https://fe.workplus.io/" target="_blank" title="WorkPlusFE Team">Manual</a> |
-      <a href="https://fe-blog.workplus.io/" target="_blank" title="WorkPlusFE Blog">Blog</a>
+      <a href="https://fe-blog.workplus.io/" target="_blank" title="WorkPlusFE Blog">Blog</a> |
+      <a href="https://open.workplus.io/" target="_blank" title="WorkPlus Open">Dev</a>
     <br>
+      <p align="center">🌟🌟🌟🌟🌟</p>
       <p align="center">🤗</p>
-      <br>
   </samp>
 </p>
