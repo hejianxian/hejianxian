@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <samp>Hi there 👋, I'm Hejx 👨‍💻<br><br> A web developer based in China, working in <a href="https://workplus.io/" target="_blank" title="WorkPlus">WorkPlus</a> 🐳 <br><br>
+    <samp>Hi there 👋, I'm Jaxh 👨‍💻<br><br> A web developer based in China, working in <a href="https://workplus.io/" target="_blank" title="WorkPlus">WorkPlus</a> 🐳 <br><br>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
